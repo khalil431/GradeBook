@@ -1,0 +1,37 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Student.Database">
+
+    <!-- Dark theme color for background -->
+    <Color x:Key="MainBackground">#262833</Color>
+    <SolidColorBrush x:Key="MainBackgroundBrush" Color="{StaticResource MainBackground}"/>
+
+    <!-- Light theme color -->
+    <Color x:Key="MainForeground">#969696</Color>
+    <SolidColorBrush x:Key="MainForegroundBrush" Color="{StaticResource MainForeground}"/>
+
+    <!-- White color for font to stand out from background color -->
+    <Color x:Key="FontColour">#F0F0F0</Color>
+    <SolidColorBrush x:Key="FontColourBrush" Color="{StaticResource FontColour}"/>
+
+    <!-- Red color -->
+    <Color x:Key="RedColour">#CC3333</Color>
+    <SolidColorBrush x:Key="RedColourBrush" Color="{StaticResource RedColour}"/>
+
+    <!-- Purple color -->
+    <Color x:Key="PurpleColour">#66023C</Color>
+    <SolidColorBrush x:Key="PurpleColourBrush" Color="{StaticResource PurpleColour}"/>
+
+    <!-- Green color -->
+    <Color x:Key="GreenColour">#5C7829</Color>
+    <SolidColorBrush x:Key="GreenColourBrush" Color="{StaticResource GreenColour}"/>
+
+    <!-- Blue color -->
+    <Color x:Key="BlueColour">#087099</Color>
+    <SolidColorBrush x:Key="BlueColourBrush" Color="{StaticResource BlueColour}"/>
+
+    <!-- Yellow color -->
+    <Color x:Key="YellowColour">#B7B327</Color>
+    <SolidColorBrush x:Key="YellowColourBrush" Color="{StaticResource YellowColour}"/>
+
+</ResourceDictionary>
