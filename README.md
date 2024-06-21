@@ -1,0 +1,1 @@
+This is a WPF project that I developed using visual studio 2022. It is a desktop application designed with completely custom GUI and can be used to store information of students and export data to a CSV file. SQL, C#, and XAML were used in this project. Simply download and run using visual studio (not visual studio code).
