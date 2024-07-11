@@ -14,7 +14,7 @@ Step-by-step instructions on how to get the development environment running.
 1. **Clone the Repository:**
    - Clone the project repository from GitHub using Visual Studio:
      ```bash
-     git clone https://github.com/your-username/your-repository-name.git
+     git clone https://github.com/khalil431/GradeBook.git
      ```
    - Alternatively, download the repository ZIP file and extract it.
 
