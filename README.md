@@ -27,7 +27,7 @@ Step-by-step instructions on how to get the development environment running.
    - Visual Studio automatically restores the necessary NuGet packages on opening the solution.
 
 4. **Build and Run:**
-   - Set the startup project (usually the main WPF project) by right-clicking on it in the Solution Explorer and selecting `Set as Startup Project`.
+   - Set the startup project by right-clicking on it in the Solution Explorer and selecting `Set as Startup Project`.
    - Press `F5` or click `Start` to build and run the project.
 
 ## Usage
