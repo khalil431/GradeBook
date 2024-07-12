@@ -6,6 +6,7 @@ This is a WPF project (designed with the MVVM architectural pattern) that I deve
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [License](#license)
 
 ## Installation
 
@@ -33,7 +34,10 @@ Step-by-step instructions on how to get the development environment running.
 ## Usage
 
 - Once the project is running:
-  - Use the GUI to add, edit, or delete student records and their marks.
-  - Export data to CSV using the provided functionality within the application.
-  - Explore different features implemented in the application's custom GUI.
+   - Use the GUI to add, edit, or delete student records and their marks.
+   - Export data to CSV using the provided functionality within the application.
+   - Explore different features implemented in the application's custom GUI.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
